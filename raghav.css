@@ -1,0 +1,28 @@
+.main{
+    height: 100%;
+    width: 100%;
+    display:flex;
+     justify-content: center;
+    align-items: center;
+     flex-wrap:wrap;
+    
+    
+}.card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+     height:100px;
+    width:100px;
+    border:2px solid black;
+    border-radius:2rem;
+    flex-wrap:wrap;
+    margin-top:20px;
+    margin-left: 20px;
+    overflow: hidden;
+   
+}
+.card img{
+   height:100px;
+   width:100px;
+}
